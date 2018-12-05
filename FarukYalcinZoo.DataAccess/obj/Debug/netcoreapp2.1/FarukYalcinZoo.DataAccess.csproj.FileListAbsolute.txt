@@ -1,0 +1,11 @@
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\bin\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.deps.json
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\bin\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.dll
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\obj\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.csprojAssemblyReference.cache
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\obj\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.csproj.CoreCompileInputs.cache
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\obj\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.AssemblyInfoInputs.cache
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\obj\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.AssemblyInfo.cs
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\bin\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.runtimeconfig.json
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\bin\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.runtimeconfig.dev.json
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\bin\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.pdb
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\obj\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.dll
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.DataAccess\obj\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.pdb
