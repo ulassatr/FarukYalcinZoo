@@ -1,0 +1,17 @@
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\bin\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.deps.json
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\bin\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.runtimeconfig.json
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\bin\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.runtimeconfig.dev.json
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\bin\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.dll
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\bin\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.pdb
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.csprojAssemblyReference.cache
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.csproj.CoreCompileInputs.cache
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.RazorAssemblyInfo.cache
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.RazorAssemblyInfo.cs
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.AssemblyInfoInputs.cache
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.AssemblyInfo.cs
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.RazorTargetAssemblyInfo.cache
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.dll
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.pdb
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\bin\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.dll
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\bin\Debug\netcoreapp2.1\FarukYalcinZoo.DataAccess.pdb
+D:\visualRepo\FarukYalcinZoo\FarukYalcinZoo.WebAPI\obj\Debug\netcoreapp2.1\FarukYalcinZoo.WebAPI.csproj.CopyComplete
